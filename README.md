@@ -22,4 +22,4 @@ This project explores Mars-related data through web scraping and data analysis. 
 - `Splinter`
 - `BeautifulSoup`
 - `Pandas`
-- `Matplotlib`
+
